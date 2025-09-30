@@ -103,3 +103,10 @@ The project is in an early experimental phase. Planned areas of focus include:
 ## Disclaimer
 
 This project is a **prototype** and is **not safe for production use**. Its primary purpose is to demonstrate socket-based client-server communication with rudimentary authentication.  
+
+## Other repositories
+
+# Antenna
+Find the client [here](https://github.com/NoahSheppard/antenna-client)
+
+Find the server [here](https://github.com/NoahSheppard/antenna-auth)
